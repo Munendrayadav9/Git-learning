@@ -3,3 +3,7 @@ console.log(button)
 
 const login="Login page added";
 console.log(login)
+
+const Payment="integrated the payment gatway";
+console.log(Payment);
+
