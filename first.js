@@ -7,3 +7,6 @@ console.log(login)
 const Payment="integrated the payment gatway";
 console.log(Payment);
 
+const upi ="Integrated the UPI";
+console.log(upi);
+
